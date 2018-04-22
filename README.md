@@ -1,4 +1,5 @@
 # HelloWorld
 Starting GItHub
 
-Just here writing something about myself. Me is HUMAN
+Just here writing something about myself:
+Me is HUMAN
